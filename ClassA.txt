@@ -1,3 +1,5 @@
 function 1 A
 function 2 A
 function 3 A
+function 4 A
+function 5 A
